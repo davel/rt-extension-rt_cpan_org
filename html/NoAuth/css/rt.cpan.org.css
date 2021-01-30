@@ -74,6 +74,9 @@
 #login-box {
     width: 90%;
 }
+#login-box  .button-row a[href*=OAuth] {
+    display: none;
+}
 
 #rtcpan-explanation {
     margin-bottom: 3em;

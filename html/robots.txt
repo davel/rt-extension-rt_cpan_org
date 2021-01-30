@@ -63,4 +63,13 @@ Disallow: /User/
 Disallow: /Widgets/
 Disallow: /Ticket/Attachment/
 
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: Sogou web spider
+Disallow: /
+
 % $m->abort;
